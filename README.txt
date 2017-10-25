@@ -3,6 +3,8 @@ Splats (Computer Graphics 2 Project)
 Splats is a Ping Pong game made in Unity with an emphasis on spreading color throughout
 playing the game.
 
+Note: You can check out the game at www.splats.zone for quick reference, but the walls on the side are bugged due to Unity's WebGL build (not sure why, executable builds work perfectly) and isn't the best experience.
+
 i) Due to me wanting to complete a mostly solid game and not a lot of time, I ended up
 not being able to implement some of the more graphically challenging items. However I
 still ended up with a decently functioning Ping Pong game with a rally bot to face off
